@@ -1,0 +1,29 @@
+{
+  "name": "purescript-justified",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "psc-package": "psc-package",
+    "pscid": "pscid",
+    "pulp": "pulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joneshf/purescript-justified.git"
+  },
+  "keywords": [],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joneshf/purescript-justified/issues"
+  },
+  "homepage": "https://github.com/joneshf/purescript-justified#readme",
+  "devDependencies": {
+    "psc-package": "^0.2.5",
+    "pscid": "^2.0.2",
+    "pulp": "^12.0.1",
+    "purescript": "^0.11.7",
+    "purescript-psa": "^0.5.1"
+  }
+}
